@@ -1,0 +1,44 @@
+html {
+    filter: invert(86%) hue-rotate(180deg) brightness(105%) contrast(105%);
+    background: white;
+}
+
+.ng-binding {
+    color: #000 !important;
+    
+}
+
+
+
+.command_text, small {
+    padding: 10px;
+    font-size:90% !important;
+    font-family: "Monaco", "Lucida Console" !important;
+    font-weight: bold;
+}
+
+.titulo small {
+    font-family: Verdana !important;
+    font-weight: bold !important;
+}
+.float-left {
+    color: #d2d0d0 !important;
+}
+
+
+span[role="img"] {
+    filter: invert(100%) hue-rotate(180deg) brightness(105%) contrast(105%);
+}
+
+/* Module icons and some others. Remove comment to see them in inverse colors
+img, svg, iframe, .emoji-common-emoji-sprite {
+    filter: invert(100%) hue-rotate(180deg) brightness(105%) contrast(105%);
+}
+*/
+
+nav img {
+    filter: invert(100%) hue-rotate(180deg) brightness(105%) contrast(105%);
+}
+.css-ob4lje {
+    filter: invert(100%) hue-rotate(180deg) brightness(105%) contrast(105%);
+}
