@@ -62,7 +62,7 @@ Robot screen
 
 ![final steps](/img/final%20steps.png)
 
-### 4.1 First remove the last part of the link. It should be look like this
+### 4.1 First remove the last part of the link. It should look like this
 
 ```
 http://localhost:5000/
