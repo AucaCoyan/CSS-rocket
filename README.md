@@ -78,4 +78,4 @@ http://localhost:5000/
 
 I'm open to suggestions or PRs!
 
-Please feel free to contribute as you wish. Even if are tiny typos or something doesn't looks exactly right.
+Please feel free to contribute as you wish. Even if are tiny typos or something doesn't look exactly right.
